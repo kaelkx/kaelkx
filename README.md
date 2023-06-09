@@ -18,16 +18,18 @@
 - ⚡  Fato engraçado sobre mim: **Aprendi a instalar, calibrar, ajustar e configurar balanças de etiquetadoras, garantindo sua precisão e funcionamento adequado.**
 
 
+  <img  src="https://github.com/kaelkx/kaelkx/assets/88331998/c6fcba7d-da65-4e01-bc82-f4be4bc5639a" height="200" width="300px" align="right" >
+
 <h4 align="left" ><br>
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> 
  Languages | Tools 
  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
   
  </h4>
+  
 
 <div align="left" >
- 
-  
+
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="vscode" width="40" /></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="vscode" width="40" /></code>
@@ -38,9 +40,10 @@
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="vscode" width="40" /></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="vscode" width="40" /></code>
   
+  
   <h3 align="center">
 <!--   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> -->
-  🚀 👩‍🚀 Obrigado por dar o seu valioso tempo para ver meu perfil do GitHub 👩‍🚀 🚀 </h3>
+  🚀 Obrigado por dar o seu valioso tempo para ver meu perfil do GitHub 🚀 </h3>
 <!--   <a href="#top" align="center"> 🔝</a> -->
 </div>
 

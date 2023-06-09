@@ -4,7 +4,8 @@
 <img style="margin-top: 300px;" class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" > <br>
 
 - **"Sou um analista de banco de dados dedicado e apaixonado, sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos. Com uma sólida base em análise de dados, estou constantemente aprimorando minhas habilidades em bancos de dados e tenho uma grande motivação para aprender desenvolvimento. Tenho um espírito curioso e estou disposto a enfrentar novas tecnologias e metodologias, a fim de contribuir efetivamente para o sucesso de projetos e equipes.**
-<!-- - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> I’m currently learning **SDET** -->
+<!-- - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.
+" width="28"> I’m currently learning **SDET** -->
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28"> **Atualmente estou me aperfeiçoando em SQL Server, Automação, C#**.
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"  align="center"/>  Pergunte-me sobre: **SQL Server, C#, IA.**  Fico feliz em ajudar.
@@ -12,7 +13,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Me encontre em: **pablokaels@gmail.com**
 - <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="32" align="center">Conecte-se comigo:  <a href="https://www.linkedin.com/in/pablo-kael-sousa-664404114/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="110" height="30" /></a>
-  <img src="https://i.imgur.com/O7n4Iz9.gif" width="0"  align="center" /></a>
+  <img src="https://i.gifer.com/87Xv.gif" width="0"  align="center" /></a>
 
 - ⚡  Fato engraçado sobre mim: **Aprendi a instalar, calibrar, ajustar e configurar balanças de etiquetadoras, garantindo sua precisão e funcionamento adequado.**
 

@@ -37,6 +37,12 @@
  
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="vscode" width="40" /></code>
      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="vscode" width="40" /></code>
+  
+  <h3 align="center">
+<!--   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> -->
+  🚀 👩‍🚀 Obrigado por dar o seu valioso tempo para ver meu perfil do GitHub 👩‍🚀 🚀 </h3>
+<!--   <a href="#top" align="center"> 🔝</a> -->
+</div>
 
   ![Snake animation](https://github.com/kaelkx/kaelkx/blob/output/github-contribution-grid-snake.svg)
  

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=40&center=true&vCenter=true&width=1000&lines=Hello+there!+My+name+is+Pablo+kael;I'm+26+years+old;I'm+from+São+Paulo+-+Brazil;Studying+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffff&size=40&center=true&vCenter=true&width=1000&lines=Hello+there!+My+name+is+Pablo+kael;I'm+26+years+old;I'm+from+São+Paulo+-+Brazil;Studying+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h1>  💫 SOBRE MIM: </h1>
 <img style="margin-top: 300px;" class="mt200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height="350" width="400px" align="right" > <br>
@@ -33,8 +33,6 @@
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="vscode" width="40" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="vscode" width="40" /></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="vscode" width="40" /></code>
-    <code><img src="https://cdn.jsdelivr.net/gh/AnoyiX/dev-icons@1.0.0/icons/AutoCAD.svg" alt="vscode" width="40" /></code>
-     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="vscode" width="40" /></code>
      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="vscode" width="40" /></code>
  
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="vscode" width="40" /></code>

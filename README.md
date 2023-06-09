@@ -36,7 +36,7 @@
      <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="vscode" width="40" /></code>
  
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="vscode" width="40" /></code>
-     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="vscode" width="40" /></code>
+     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="vscode" width="40" /></code><img src="https://i.gifer.com/87Xv.gif" align="right"/></a>
   
   <h3 align="center">
 <!--   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/> -->

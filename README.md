@@ -13,7 +13,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Me encontre em: **pablokaels@gmail.com**
 - <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="32" align="center">Conecte-se comigo:  <a href="https://www.linkedin.com/in/pablo-kael-sousa-664404114/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="110" height="30" /></a>
-  <img src="https://i.gifer.com/87Xv.gif" width="0"  align="center" /></a>
+  
 
 - ⚡  Fato engraçado sobre mim: **Aprendi a instalar, calibrar, ajustar e configurar balanças de etiquetadoras, garantindo sua precisão e funcionamento adequado.**
 
@@ -22,7 +22,7 @@
   <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> 
  Languages | Tools 
  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
-  <img src='https://i.gifer.com/87Xv.gif' width="200" align="right">
+  
  </h4>
 
 <div align="left" >
